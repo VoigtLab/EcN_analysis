@@ -1,0 +1,87 @@
+LOCUS       AJT202_LPattB7_N         602 bp    DNA     linear   UNA 08-MAY-2023
+DEFINITION  Landing pad strain with antibiotic markers flipped out.
+ACCESSION   urn.local...1j3p-g8new7r
+VERSION     urn.local...1j3p-g8new7r
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     misc_feature    1..150
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="AJT202_LPattB7_NoAb_ActuatorDestination
+                     "
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; LP3
+                     homology L (<a
+                     href=""urn:local:.:807-g850uwn"">AJT202_LPattB7_NoAb_Actua
+                     torDestination</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:0/0; LP3
+                     homology L (<a
+                     href=""urn:local:.:6s3-g850t9h"">AJT474_LPattB7_pAJT430_RP
+                     Uconstruct_PJ23101-YFP</a>)"
+                     /label="LP3 homology L"
+     terminator      151..240
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="DT60"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11t3-g8gn3v3"">DT60</a>"
+                     /label="DT60"
+     protein_bind    241..274
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="FRT"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11uw-g8gn3v6"">FRT</a>"
+                     /label="FRT"
+     protein_bind    275..336
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="attB7"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11ut-g8gn3v6"">attB7</a>"
+                     /label="attB7"
+     terminator      337..502
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="DT104"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11t4-g8gn3v3"">DT104</a>"
+                     /label="DT104"
+     misc_feature    503..602
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="AJT202_LPattB7_NoAb_ActuatorDestination
+                     "
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; LP3
+                     homology R (<a
+                     href=""urn:local:.:807-g850uwn"">AJT202_LPattB7_NoAb_Actua
+                     torDestination</a>)"
+                     /Alternative_Match="100.00%; Adjusted-Interval-0:0/0; LP3
+                     homology R (<a
+                     href=""urn:local:.:6s3-g850t9h"">AJT474_LPattB7_pAJT430_RP
+                     Uconstruct_PJ23101-YFP</a>)"
+                     /label="LP3 homology R"
+ORIGIN      
+        1 ataccggcaa tgttgattca taaagaaagg gtgataaaaa gagtagaagc ccggtattta
+       61 ctggtgttcg tagttaatta tctgttcctg aagataaaga atttcactct taagttataa
+      121 ttaatacatt gacctaatct atgggttgca acatttaata aaaaaagggc ggtcgcaaga
+      181 tcgccctttt ttacgtatga cacagtgaaa aatggcgccc atcggcgcca tttttttatg
+      241 gaagttccta ttctctagaa agtataggaa cttcagacga gaaacgttcc gtccgtctgg
+      301 gtcagttggg caaagttgat gaccgggtcg tccgttgcag acaaaaaaaa tggcgcacaa
+      361 tgtgcgccat ttttcacttc acaggtacta ttgttttgaa ttgaaaaggg cgcttcggcg
+      421 ccctttttgc atttgttgac ggcatatatt tgtatatcga agcgccctga tgggcgcttt
+      481 ttttatttaa tcgataacca gagtcatgaa tgacatcttc cagatgtcaa ctcgttatcc
+      541 tgggaggttt cacccgtaaa gccaccaggg ctatacgtgg aaaaatttaa gactatccag
+      601 cc
+//

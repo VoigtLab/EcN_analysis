@@ -1,0 +1,357 @@
+LOCUS       AJT188_LPattB5          5425 bp    DNA     linear   UNA 08-MAY-2023
+DEFINITION  LPattB2 + LPattB5.
+ACCESSION   urn.local...1j3l-g8new7r
+VERSION     urn.local...1j3l-g8new7r
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     CDS             complement(1..1041)
+                     /codon_start=1
+                     /inference="EXISTENCE:same species:RefSeq"
+                     /locus_tag="ECOLIN_20720"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /product="phosphate ABC transporter substrate-binding
+                     protein"
+                     /protein_id="AID80890.1"
+                     /transl_table=1
+                     /X-Transferred_Translation="MKVMRTTVATVVAATLSMSAFSVFAEASLT
+                     GAGATFPAPVYAKWADTYQKETGNKVNYQGIGSSGGVKQIIANTVDFGASDAPLSDEK
+                     LAQEGLFQFPTVIGGVVLAVNIPGLKSGELVLDGKTLGDIYLGKIKKWDDEAIAKLNP
+                     GLKLPSQNIAVVRRADGSGTSFVFTSYLAKVNEEWKNNVGTGSTVKWPIGLGGKGNDG
+                     IAAFVQRLPGAVGYVEYAYAKQNNLAYTKLISADGKPVSPTEENFANAAKGADWSKTF
+                     AQDLTNQKGEDAWPITSTTFILIHKDQKKPEQGTEVLKFFDWAYKTGAKQANDLDYAS
+                     LPDSVVEQVRAAWKTNIKDSSGKPLY*"
+                     /X-Transferred_From="AJT437_LPattB5_AraC_LacI_Ptac-enEvolv
+                     PAL_v2"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0;
+                     ECOLIN_20720 (<a
+                     href=""urn:local:.:6x6-g850tuc"">AJT437_LPattB5_AraC_LacI_
+                     Ptac-enEvolvPAL_v2</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     ECOLIN_20720 (<a
+                     href=""urn:local:.:806-g850uwn"">AJT202_LPattB5_NoAb_Senso
+                     rDestination</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     ECOLIN_20720 (<a
+                     href=""urn:local:.:6s2-g850t9h"">AJT472_LPattB5_pAJT429_RP
+                     Uconstruct_PJ23101-YFP</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     ECOLIN_20720 (<a
+                     href=""urn:local:.:6k3-g850sr8"">AJT206_LPattB5_SensorArra
+                     yV4</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     ECOLIN_20720 (<a
+                     href=""urn:local:.:803-g850uwn"">AJT188_EcN_LPattB5_tet</a
+                     >)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     pstS (<a
+                     href=""urn:local:.:6x6-g850tuc"">AJT437_LPattB5_AraC_LacI_
+                     Ptac-enEvolvPAL_v2</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     pstS (<a
+                     href=""urn:local:.:806-g850uwn"">AJT202_LPattB5_NoAb_Senso
+                     rDestination</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     pstS (<a
+                     href=""urn:local:.:6s2-g850t9h"">AJT472_LPattB5_pAJT429_RP
+                     Uconstruct_PJ23101-YFP</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     pstS (<a
+                     href=""urn:local:.:6k3-g850sr8"">AJT206_LPattB5_SensorArra
+                     yV4</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     pstS (<a
+                     href=""urn:local:.:803-g850uwn"">AJT188_EcN_LPattB5_tet</a
+                     >)"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="ECOLIN_20720"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:1k2o-g8nf3kw"">ECOLIN_20720</a>"
+                     /label="ECOLIN_20720"
+     protein_bind    complement(1335..1500)
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="Tn7L"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11ty-g8gn3v4"">Tn7L</a>"
+                     /label="Tn7L"
+     terminator      complement(1613..1782)
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="DT101"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11t1-g8gn3v3"">DT101</a>"
+                     /label="DT101"
+     protein_bind    complement(1783..1843)
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="attB5"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11u1-g8gn3v4"">attB5</a>"
+                     /label="attB5"
+     protein_bind    1783..1843
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="attR5"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11u2-g8gn3v5"">attR5</a>"
+                     /label="attR5"
+     protein_bind    complement(1844..1877)
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="FRT"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11uw-g8gn3v6"">FRT</a>"
+                     /label="FRT"
+     promoter        1892..1920
+                     /locus_tag="Pcon"
+                     /X-Transferred_From="plYJP072"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0; Pcon
+                     (<a href=""urn:local:.:2y4-g850hew"">plYJP072</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     Pcon (<a href=""urn:local:.:2xd-g850hew"">pAJT418</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     Pcon (<a href=""urn:local:.:2xq-g850hew"">plYJP064</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     Pcon (<a href=""urn:local:.:2xg-g850hew"">pAJT429</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     Pcon (<a href=""urn:local:.:2wx-g850hew"">pAJT194</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     Pcon (<a href=""urn:local:.:2xm-g850hew"">pBDF506</a>)"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="constitutive promoter"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; Pcon (<a
+                     href=""urn:local:.:1bt8-g8gqkux"">constitutive
+                     promoter</a>)"
+                     /label="Pcon"
+     CDS             2040..3158
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="tetA"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11s9-g8gn3v1"">tetA</a>"
+                     /label="tetA"
+     protein_bind    complement(3179..3212)
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="FRT"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11uw-g8gn3v6"">FRT</a>"
+                     /label="FRT"
+     terminator      complement(3213..3323)
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="DT5"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11t2-g8gn3v3"">DT5</a>"
+                     /label="DT5"
+     terminator      complement(3214..3323)
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="DT5"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11tw-g8gn3v4"">DT5</a>"
+                     /label="DT5"
+     protein_bind    complement(3372..3570)
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="Tn7R"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:11tz-g8gn3v4"">Tn7R</a>"
+                     /label="Tn7R"
+     CDS             complement(3596..5425)
+                     /EC_number="2.6.1.16"
+                     /codon_start=1
+                     /inference="EXISTENCE:same species:RefSeq"
+                     /locus_tag="ECOLIN_20725"
+                     /note="Catalyzes the first step in hexosamine metabolism,
+                     converting fructose-6P into glucosamine-6P using glutamine
+                     as a nitrogen source; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /product="glucosamine--fructose-6-phosphate
+                     aminotransferase"
+                     /protein_id="AID80891.1"
+                     /transl_table=1
+                     /X-Transferred_Translation="MCGIVGAIAQRDVAEILLEGLRRLEYRGYD
+                     SAGLAVVDAEGHMTRLRRLGKVQMLAQAAEEHPLHGGTGIAHTRWATHGEPSEANAHP
+                     HVSEHIVVVHNGIIENHEPLREALKARGYTFVSETDTEVIAHLVNWELKQGGTLREAV
+                     LRAIPQLRGAYGTVIMDSRHPDTLLAARSGSPLVIGLGMGENFIASDQLALLPVTRRF
+                     IFLEEGDIAEITRRSVNIFDKTGAEVKRQDIESNLQYDAGDKGIYRHYMQKEIYEQPN
+                     AIKNTLTGRISHGQVDLSELGPNADELLSKVEHIQILACGTSYNSGMVSRYWFESLAG
+                     IPCDVEIASEFRYRKSAVRRNSLMITLSQSGETADTLAGLRLSKELGYLGSLAICNVP
+                     GSSLVRESDLALMTNAGTEIGVASTKAFTTQLTVLLMLVAKLSRLKGLDASIEHDIVH
+                     GLQALPSRIEQMLSQDKRIEALAEDFSDKHHALFLGRGDQYPIALEGALKLKEISYIH
+                     AEAYAAGELKHGPLALIDADMPVIVVAPNNELLEKLKSNIEEVRARGGQLYVFADQDA
+                     GFVGSDNMHIIEMPHVEEVIAPIFYTVPLQLLAYHVALIKGTDVDQPRNLAKSVTVE*
+                     "
+                     /X-Transferred_From="AJT437_LPattB5_AraC_LacI_Ptac-enEvolv
+                     PAL_v2"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0;
+                     ECOLIN_20725 (<a
+                     href=""urn:local:.:6x6-g850tuc"">AJT437_LPattB5_AraC_LacI_
+                     Ptac-enEvolvPAL_v2</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     ECOLIN_20725 (<a
+                     href=""urn:local:.:806-g850uwn"">AJT202_LPattB5_NoAb_Senso
+                     rDestination</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     ECOLIN_20725 (<a
+                     href=""urn:local:.:6s2-g850t9h"">AJT472_LPattB5_pAJT429_RP
+                     Uconstruct_PJ23101-YFP</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     ECOLIN_20725 (<a
+                     href=""urn:local:.:6k3-g850sr8"">AJT206_LPattB5_SensorArra
+                     yV4</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     ECOLIN_20725 (<a
+                     href=""urn:local:.:803-g850uwn"">AJT188_EcN_LPattB5_tet</a
+                     >)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     glmS (<a
+                     href=""urn:local:.:6x6-g850tuc"">AJT437_LPattB5_AraC_LacI_
+                     Ptac-enEvolvPAL_v2</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     glmS (<a
+                     href=""urn:local:.:806-g850uwn"">AJT202_LPattB5_NoAb_Senso
+                     rDestination</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     glmS (<a
+                     href=""urn:local:.:6s2-g850t9h"">AJT472_LPattB5_pAJT429_RP
+                     Uconstruct_PJ23101-YFP</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     glmS (<a
+                     href=""urn:local:.:6k3-g850sr8"">AJT206_LPattB5_SensorArra
+                     yV4</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     glmS (<a
+                     href=""urn:local:.:803-g850uwn"">AJT188_EcN_LPattB5_tet</a
+                     >)"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="ECOLIN_20725"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:1k2v-g8nf4d0"">ECOLIN_20725</a>"
+                     /label="ECOLIN_20725"
+ORIGIN      
+        1 ttagtacagc ggcttgccgc tactgtcttt aatattggtc ttccacgcag cgcgaacctg
+       61 ttcaactacg ctatccggca ggctggcata atccaggtcg ttcgcctgtt tagccccggt
+      121 tttgtatgcc cagtcgaaga acttcagcac ttcagtgcct tgttctggtt tcttctgatc
+      181 tttatggatc agaatgaacg tggtagaggt aataggccat gcatcttcgc ctttctggtt
+      241 ggtcagatcc tgagcgaatg ttttgctcca gtctgcgcct tttgctgcat tagcgaagtt
+      301 ttcttcggtc ggactcaccg gtttgccatc agcggagatc agtttggtgt acgccaggtt
+      361 gttctgcttc gcgtaagcat attcaacgta accaactgca cccggcagac gctgaacgaa
+      421 cgcggcgata ccgtcgttac ctttaccgcc cagaccgatc ggccatttta cggtagagcc
+      481 agtaccaacg ttgtttttcc actcttcgtt cactttcgcc aggtagctgg tgaagacgaa
+      541 ggaagtcccg gagccatctg cgcggcgtac tacagcaatg ttctgtgaag gcagtttcag
+      601 acccggattc agtttggcga tggcttcatc atcccacttc ttgattttgc ccaggtagat
+      661 gtcgccgagg gttttaccat ccagcaccag ttcgccagac ttcagacctg gaatattaac
+      721 cgccagcacc acgccgccaa tcacggtcgg gaactggaac aggccttcct gagccagttt
+      781 ttcgtcagac agcggcgcgt cagaagcacc aaaatcaacg gtattggcga tgatctgttt
+      841 tacaccacca gaagaaccga taccctggta gttaacttta ttaccggttt ctttctggta
+      901 agtgtcagcc catttggcat acaccggcgc agggaaggtt gcacctgcac ctgtcaggct
+      961 tgcttctgca aacacagaga aagcgctcat cgataaggtc gcggcgacaa cagttgcgac
+     1021 ggtggtacgc ataactttca taatgtctcc tgggaggatt cataaagcat tgtttgttgg
+     1081 ctacgagaag caaaatagga caaacaggtg acagttatat gtaaggttta tgacagtttt
+     1141 atgacagaga gagaatgtct tcagtctgat ttaaataagc gttgatattc agttaattac
+     1201 aaatattaat aacgaagaga tgacagaaaa attttcattc tgtgacagag aaaaagtagc
+     1261 cgaagatgac ggtttgtcac atggagttgg caggatgttt gattaaaaac ataacaggaa
+     1321 gaaaaatgcc ccgctgtggg cggacaaaat agttgggaac tgggaggggt ggaaatggag
+     1381 tttttaagga ttatttaggg aagagtgaca aaatagatgg gaactgggtg tagcgtcgta
+     1441 agctaatacg aaaattaaaa atgacaaaat agtttggaac tagatttcac ttatctggtt
+     1501 ggcctgcgat cggtgcgggc ctcttcgcta ttacgccagc tggcgaaagg gggatgtgct
+     1561 gcaaggatct cgccaagcta gcttggcatt cgatggtgtc aacgtaaatg cagtcagagg
+     1621 agccaaattc aaaaaagcct gctttctagc aggctttttg ctttctaatg gaagcataaa
+     1681 aaaatggcgc cgatgggcgc catttttcac tgcggcaaga attacttcag acagagtatc
+     1741 aaaaggcgaa acctccgcaa tgcggaggtt tctttttaaa gagcaccgac cgcagccaca
+     1801 gcgtgtagcg ctcccaggcc gtccactccc tgatccggcg ctcgaagttc ctatactttc
+     1861 tagagaatag gaacttcgga ataggaactt cttgacagct tatcatcgat aaactgtaat
+     1921 gcggtagttt atcacagtta aattgctaac gcagtcaggc accgtgtatg aaatctaaca
+     1981 atgcgctcat cgtcatcctc ggcaccgtca ccctggatgc tgtaggcata ggcttggtta
+     2041 tgccggtact gccgggcctc ttgcgggata tcgtccattc cgacagcatc gccagtcact
+     2101 atggcgtgct gctagcgcta tatgcgttga tgcaatttct atgcgcaccc gttctcggag
+     2161 cactgtccga ccgctttggc cgccgcccag tcctgctcgc ttcgctactt ggagccacta
+     2221 tcgactacgc gatcatggcg accacacccg tcctgtggat tctctacgcc ggacgcatcg
+     2281 tggccggcat caccggcgcc acaggtgcgg ttgctggcgc ctatatcgcc gacatcaccg
+     2341 atggggaaga tcgggctcgc cacttcgggc tcatgagcgc ttgtttcggc gtgggtatgg
+     2401 tggcaggccc cgtggccggg ggactgttgg gcgccatctc cctgcacgca ccattccttg
+     2461 cggcggcggt gctcaacggc ctcaacctac tactgggctg cttcctaatg caggagtcgc
+     2521 ataagggaga gcgccgtccg atgcccttga gagccttcaa cccagtcagc tccttccggt
+     2581 gggcgcgggg catgaccatt gtggccgcac ttatgactgt cttctttatc atgcaactcg
+     2641 taggacaggt gccggcagcg ctctgggtca ttttcggcga ggaccgcttt cgctggagcg
+     2701 cgacgatgat cggcctgtcg cttgcggtat tcggaatctt gcacgccctc gctcaagcct
+     2761 tcgtcactgg tcccgccacc aaacgtttcg gcgagaagca ggccattatc gccggcatgg
+     2821 cggccgacgc gctgggctac gtcttgctgg cgttcgcgac gcgaggctgg atggccttcc
+     2881 ccattatgat tcttctcgct tccggcggca tcgggatgcc cgcgttgcag gccatgctgt
+     2941 ccaggcaggt agatgacgac catcagggac agcttcaagg atcgctcgcg gctcttacca
+     3001 gcctaacttc gatcactgga ccgctgatcg tcacggcgat ttatgccgcc tcggcgagca
+     3061 catggaacgg gttggcatgg attgtaggcg ccgccctata ccttgtctgc ctccccgcgt
+     3121 tgcgtcgcgg tgcatggagc cgggccacct cgacctgaga caattgtcct tttccgctga
+     3181 agttcctata ctttctagag aataggaact tctggaccaa aacgaaaaaa ggcccccctt
+     3241 tcgggaggcc tcttttctgg aatttggtac cgagtgcaga cgtaaaaaaa gcggcgtggt
+     3301 tagccgcttt tttaattgcc ggacaagctc agctaattaa gctagcttat cgataccgtc
+     3361 gacctcgaac cccacgcccc tctttaatac gacgggcaat ttgcacttca gaaaatgaag
+     3421 agtttgcttt agccataaca aaagtccagt atgctttttc acagcataac tggactgatt
+     3481 tcagtttaca actattctgt ctagtttaag actttattgt catagtttag atctattttg
+     3541 ttcagtttaa gactttattg tccgcccaca cccgcttacg cagggcatcc atttattact
+     3601 caaccgttac cgattttgcc aggttacgcg gctggtcaac gtcggtgcct ttgatcagcg
+     3661 caacgtggta agccagtagt tgcagcggaa cggtgtagaa gattggtgca atcacctctt
+     3721 ccacatgcgg catctcgatg atgtgcatgt tatcgctccc cacaaaacca gcatcctgat
+     3781 cggcgaagac atacaactga ccgccacgcg cgcgaacttc ttcaatgttg gatttcagtt
+     3841 tttccagcaa ttcgttgttc ggtgcaacga cgataaccgg catatcggca tctatcagcg
+     3901 ccagcggacc gtgtttcagt tcgccagcag cgtaggcttc agcgtgaatg taagagatct
+     3961 ctttcagctt caatgcacct tccagcgcga ttgggtactg atcgccacgg cccaggaaca
+     4021 gcgcgtgatg tttgtcagag aaatcttctg ccagcgcttc aatgcgtttg tcctgagaca
+     4081 gcatctgctc aatacggctc ggcagcgcct gcagaccatg cacgatgtca tgttcaatgg
+     4141 aggcatccag acctttcagg cgagacagtt tcgccaccag catcaacagc acagttaact
+     4201 gggtggtgaa tgctttggtg gaggccacgc caatttccgt accggcgttg gtcatcagcg
+     4261 ccagatcgga ttcgcgcacc agagaagaac ccggaacgtt acagattgcc agcgaaccaa
+     4321 ggtaacccag ctctttcgac agacgcaggc ccgccagggt atccgcggtt tcgccagact
+     4381 gtgacaaggt gatcatcagg ctgttacgac gcacggcaga tttgcgatag cggaattcag
+     4441 aggcgatttc gacgtcgcac ggaatacctg ccagcgattc aaaccagtag cgggaaacca
+     4501 taccggagtt ataagaagta ccacaggcga ggatctgaat atgctcaacc ttcgacagca
+     4561 gttcatcggc gttcggtccc agctcgctta aatcaacctg accgtggctg atgcgcccgg
+     4621 taagggtgtt tttgatcgcg ttcggctgtt cgtagatctc tttctgcatg tagtggcggt
+     4681 aaataccttt atcgcccgcg tcatattgca gattggattc gatatcctga cgttttactt
+     4741 ccgcgccagt tttatcgaag atgtttaccg aacggcgagt gatttccgca atatcgccct
+     4801 cttcaaggaa gataaaacga cgagtcactg gcaacagcgc cagctggtca gaagcgataa
+     4861 agttttcgcc catacccagg ccaatcacca gcggactacc agaacgtgcc gccagcaggg
+     4921 tatccggatg acgggagtcc atgatcactg taccgtacgc accacgcagt tgcgggatag
+     4981 cacgcagaac tgcctcacgc agagtaccgc cttgtttcag ctcccagttc accaaatgtg
+     5041 caatcacttc ggtgtcggtt tcagaaacga aggtatagcc acgtgctttt aacgcttcac
+     5101 gcagcggttc atggttttcg atgatgccgt tatgcaccac cacaatgtgt tcagaaacat
+     5161 gcggatgcgc gttagcttct gaaggttcac catgggtcgc ccagcgagtg tgagcaatac
+     5221 cggtgccgcc atgcagagga tgttcttccg ctgcctgagc cagcatctgt actttaccga
+     5281 ggcgacgcag gcgggtcata tgaccttctg catcaacaac ggccagaccg gcagaatcat
+     5341 atccgcggta ttccagacga cgtaaacctt caagaaggat ttctgctaca tcacgttgcg
+     5401 cgatcgcgcc aacaattcca cacat
+//

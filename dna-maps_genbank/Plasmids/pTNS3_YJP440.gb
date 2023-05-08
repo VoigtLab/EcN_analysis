@@ -1,0 +1,515 @@
+LOCUS       pTNS3_YJP440            9983 bp    DNA     circular UNA 06-MAY-2023
+DEFINITION  Tn7 transposase expression vector pTNS3, complete sequence.
+ACCESSION   EU215432
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     promoter        71..159
+                     /note="Found this feature upstream of what Adam had
+                     annotated as the Amp Promoter. We're not sure what it is,
+                     but seems harmless so will keep."
+                     /X-Transferred_From="pTNS3_YJP440"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0;
+                     Extended Amp Promoter? (<a
+                     href=""urn:local:.:50e-g850k2a"">pTNS3_YJP440</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     Extended Amp Promoter? (<a
+                     href=""urn:local:.:50c-g850k2a"">pE-FLP</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     Extended Amp Promoter? (<a
+                     href=""urn:local:.:50d-g850k2a"">pKD46_LambdaRedMachinery<
+                     /a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     Extended Amp Promoter? (<a
+                     href=""urn:local:.:2xo-g850hew"">plYJP022-int7</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     Extended Amp Promoter? (<a
+                     href=""urn:local:.:2xp-g850hew"">plYJP053</a>)"
+                     /modified_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="Extended Amp Promoter?"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:1csu-g8gtbco"">Extended Amp
+                     Promoter?</a>"
+                     /label="Extended Amp Promoter?"
+     promoter        96..187
+                     /gene="<i>bla</i>"
+                     /note="Derived using Geneious Prime 2021.1.1 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /X-Transferred_From="pTNS3_YJP440"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0; AmpR
+                     promoter (<a
+                     href=""urn:local:.:50e-g850k2a"">pTNS3_YJP440</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     AmpR promoter (<a
+                     href=""urn:local:.:50c-g850k2a"">pE-FLP</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     AmpR promoter (<a
+                     href=""urn:local:.:50d-g850k2a"">pKD46_LambdaRedMachinery<
+                     /a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     AmpR promoter (<a
+                     href=""urn:local:.:2xo-g850hew"">plYJP022-int7</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     AmpR promoter (<a
+                     href=""urn:local:.:2xp-g850hew"">plYJP053</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:13/0;
+                     AmpR promoter (<a
+                     href=""urn:local:.:2xc-g850hew"">pAJT258-phlF</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:13/0;
+                     AmpR promoter (<a
+                     href=""urn:local:.:2xu-g850hew"">plYJP067-PvanCC_v2</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:13/0;
+                     AmpR promoter (<a
+                     href=""urn:local:.:2xb-g850hew"">pAJT257-betI</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:13/0;
+                     AmpR promoter (<a
+                     href=""urn:local:.:2xt-g850hew"">plYJP067-Pttg</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:13/0;
+                     AmpR promoter (<a
+                     href=""urn:local:.:2xe-g850hew"">pAJT419</a>)"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="AmpR promoter"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:1ct7-g8gtfri"">AmpR promoter</a>"
+                     /label="AmpR promoter"
+     RBS             188..197
+                     /locus_tag="RBS (KanR)"
+                     /X-Transferred_From="pAJT258-phlF"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0; RBS
+                     (KanR) (<a
+                     href=""urn:local:.:2xc-g850hew"">pAJT258-phlF</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     RBS (KanR) (<a
+                     href=""urn:local:.:2xu-g850hew"">plYJP067-PvanCC_v2</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     RBS (KanR) (<a
+                     href=""urn:local:.:2xb-g850hew"">pAJT257-betI</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     RBS (KanR) (<a
+                     href=""urn:local:.:2xt-g850hew"">plYJP067-Pttg</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     RBS (KanR) (<a
+                     href=""urn:local:.:2xe-g850hew"">pAJT419</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     RBS (KanR) (<a
+                     href=""urn:local:.:2x9-g850hew"">pAJT255-ameRS</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     RBS (KanR) (<a
+                     href=""urn:local:.:2xr-g850hew"">plYJP067-PcymRC_v2</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     RBS (KanR) (<a
+                     href=""urn:local:.:2x7-g850hew"">pAJT252-amtR</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     RBS (KanR) (<a
+                     href=""urn:local:.:2x8-g850hew"">pAJT254-litR</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     RBS (KanR) (<a
+                     href=""urn:local:.:2wz-g850hew"">pAJT196</a>)"
+                     /modified_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="RBS (KanR)"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:1csk-g8gt3y3"">RBS (KanR)</a>"
+                     /label="RBS (KanR)"
+     CDS             201..1061
+                     /gene="bla"
+                     /X-Transferred_From="pTNS3_YJP440"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0; bla
+                     (<a href=""urn:local:.:50e-g850k2a"">pTNS3_YJP440</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     bla (<a
+                     href=""urn:local:.:2xo-g850hew"">plYJP022-int7</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     bla (<a href=""urn:local:.:2xp-g850hew"">plYJP053</a>)"
+                     /modified_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="ampR"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:1c7h-g8grlwt"">ampR</a>"
+                     /label="ampR"
+     rep_origin      1465..1846
+                     /created_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="R6K_alternate_seq"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:1cjq-g8gs6dm"">R6K_alternate_seq</a>"
+                     /label="R6K_alternate_seq"
+     OriT            1870..2129
+                     /locus_tag="oriT"
+                     /note="oriT"
+                     /modified_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="oriT"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; <a
+                     href=""urn:local:.:18nn-g8gobqi"">oriT</a>"
+                     /label="oriT"
+     protein_bind    2361..2382
+                     /bound_moiety="<i>E. coli</i> catabolite activator
+                     protein"
+                     /note="CAP binding activates transcription in the presence
+                     of cAMP."
+                     /X-Transferred_From="plYJP022-int7"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0; CAP
+                     binding site (<a
+                     href=""urn:local:.:2xo-g850hew"">plYJP022-int7</a>)"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="pTNS3_YJP440"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; CAP
+                     binding site (<a
+                     href=""urn:local:.:1d0f-g8gu1em"">pTNS3_YJP440</a>)"
+                     /label="CAP binding site"
+     protein_bind    2431..2453
+                     /locus_tag="LacO"
+                     /X-Transferred_From="plYJP022-int7"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0; LacO
+                     (<a href=""urn:local:.:2xo-g850hew"">plYJP022-int7</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     LacO (<a href=""urn:local:.:2xp-g850hew"">plYJP053</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:4/-2;
+                     lac operator (<a
+                     href=""urn:local:.:2xo-g850hew"">plYJP022-int7</a>)"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="pTNS3_YJP440"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; LacO (<a
+                     href=""urn:local:.:1d0f-g8gu1em"">pTNS3_YJP440</a>)"
+                     /label="LacO"
+     promoter        2496..2870
+                     /note="P1 integron promoter"
+                     /regulatory_class="promoter"
+                     /X-Transferred_From="pTNS3_YJP440"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0; P1
+                     integron promoter (<a
+                     href=""urn:local:.:50e-g850k2a"">pTNS3_YJP440</a>)"
+                     /modified_by="alextriassi"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="pTNS3_YJP440"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; P1
+                     integron promoter (<a
+                     href=""urn:local:.:1d0f-g8gu1em"">pTNS3_YJP440</a>)"
+                     /label="P1 integron promoter"
+     CDS             3185..4006
+                     /codon_start=1
+                     /gene="tnsA"
+                     /note="Tn7 transposase subunit"
+                     /product="TnsA"
+                     /protein_id="ABW35343.1"
+                     /transl_table=11
+                     /X-Transferred_Translation="MAKANSSFSEVQIARRIKEGRGQGHGKDYI
+                     PWLTVQEVPSSGRSHRIYSHKTGRVHHLLSDLELAVFLSLEWESSVLDIREQFPLLPS
+                     DTRQIAIDSGIKHPVIRGVDQVMSTDFLVDCKDGPFEQFAIQVKPAAALQDERTLEKL
+                     ELERRYWQQKQIPWFIFTDKEINPVVKENIEWLYSVKTEEVSAELLAQLSPLAHILQE
+                     KGDENIINVCKQVDIAYDLELGKTLSEIRALTANGFIKFNIYKSFRANKCADLCISQV
+                     VNMEELRYVAN*"
+                     /X-Transferred_From="pTNS3_YJP440"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0; tnsA
+                     (<a href=""urn:local:.:50e-g850k2a"">pTNS3_YJP440</a>)"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="pTNS3_YJP440"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; tnsA (<a
+                     href=""urn:local:.:1d0f-g8gu1em"">pTNS3_YJP440</a>)"
+                     /label="tnsA"
+     CDS             3993..6101
+                     /codon_start=1
+                     /gene="tnsB"
+                     /note="Tn7 transposase subunit"
+                     /product="TnsB"
+                     /protein_id="ABW35344.1"
+                     /transl_table=11
+                     /X-Transferred_Translation="MWQINEVVLFDNDPYRILAIEDGQVVWMQI
+                     SADKGVPQARAELLLMQYLDEGRLVRTDDPYVHLDLEEPSVDSVSFQKREEDYRKILP
+                     IINSKDRFDPKVRSELVEHVVQEHKVTKATVYKLLRRYWQRGQTPNALIPDYKNSGAP
+                     GERRSATGTAKIGRAREYGKGEGTKVTPEIERLFRLTIEKHLLNQKGTKTTVAYRRFV
+                     DLFAQYFPRIPQEDYPTLRQFRYFYDREYPKAQRLKSRVKAGVYKKDVRPLSSTATSQ
+                     ALGPGSRYEIDATIADIYLVDHHDRQKIIGRPTLYIVIDVFSRMITGFYIGFENPSYV
+                     VAMQAFVNACSDKTAICAQHDIEISSSDWPCVGLPDVLLADRGELMSHQVEALVSSFN
+                     VRVESAPPRRGDAKGIVESTFRTLQAEFKSFAPGIVEGSRIKSHGETDYRLDASLSVF
+                     EFTQIILRTILFRNNHLVMDKYDRDADFPTDLPSIPVQLWQWGMQHRTGSLRAVEQEQ
+                     LRVALLPRRKVSISSFGVNLWGLYYSGSEILREGWLQRSTDIARPQHLEAAYDPVLVD
+                     TIYLFPQVGSRVFWRCNLTERSRQFKGLSFWEVWDIQAQEKHNKANAKQDELTKRREL
+                     EAFIQQTIQKANKLTPSTTEPKSTRIKQIKTNKKEAVTSERKKRAEHLKPSSSGDEAK
+                     VIPFNAVEADDQEDYSLPTYVPELFQDPPEKDES*"
+                     /X-Transferred_From="pTNS3_YJP440"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0; tnsB
+                     (<a href=""urn:local:.:50e-g850k2a"">pTNS3_YJP440</a>)"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="pTNS3_YJP440"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; tnsB (<a
+                     href=""urn:local:.:1d0f-g8gu1em"">pTNS3_YJP440</a>)"
+                     /label="tnsB"
+     CDS             6098..7765
+                     /codon_start=1
+                     /gene="tnsC"
+                     /note="Tn7 transposase subunit"
+                     /product="TnsC"
+                     /protein_id="ABW35345.1"
+                     /transl_table=11
+                     /X-Transferred_Translation="MSATRIQAVYRDTGVEAYRDNPFIEALPPL
+                     QESVNSAASLKSSLQLTSSDLQKSRVIRAHTICRIPDDYFQPLGTHLLLSERISVMIR
+                     GGYVGRNPKTGDLQKHLQNGYERVQTGELETFRFEEARSTAQSLLLIGCSGSGKTTSL
+                     HRILATYPQVIYHRELNVEQVVYLKIDCSHNGSLKEICLNFFRALDRALGSNYERRYG
+                     LKRHGIETMLALMSQIANAHALGLLVIDEIQHLSRSRSGGSQEMLNFFVTMVNIIGVP
+                     VMLIGTPKAREIFEADLRSARRGAGFGAIFWDPIQQTQRGKPNQEWIAFTDNLWQLQL
+                     LQRKDALLSDEVRDVWYELSQGVMDIVVKLFVLAQLRALALGNERITAGLLRQVYQDE
+                     LKPVHPMLEALRSGIPERIARYSDLVVPEIDKRLIQLQLDIAAIQEQTPEEKALQELD
+                     TEDQRHLYLMLKEDYDSSLLIPTIKKAFSQNPTMTRQKLLPLVLQWLMEGETVVSELE
+                     KPSKSKKVSAIKVVKPSDWDSLPDTDLRYIYSQRQPEKTMHERLKGKGVIVDMASLFK
+                     QAG*"
+                     /X-Transferred_From="pTNS3_YJP440"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0; tnsC
+                     (<a href=""urn:local:.:50e-g850k2a"">pTNS3_YJP440</a>)"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="pTNS3_YJP440"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; tnsC (<a
+                     href=""urn:local:.:1d0f-g8gu1em"">pTNS3_YJP440</a>)"
+                     /label="tnsC"
+     CDS             7768..9294
+                     /codon_start=1
+                     /gene="tnsD"
+                     /note="Tn7 transposase subunit"
+                     /product="TnsD"
+                     /protein_id="ABW35346.1"
+                     /transl_table=11
+                     /X-Transferred_Translation="MRNFPVPYSNELIYSTIARAGVYQGIVSPK
+                     QLLDEVYGNRKVVATLGLPSHLGVIARHLHQTGRYAVQQLIYEHTLFPLYAPFVGKER
+                     RDEAIRLMEYQAQGAVHLMLGVAASRVKSDNRFRYCPDCVALQLNRYGEAFWQRDWYL
+                     PALPYCPKHGALVFFDRAVDDHRHQFWALGHTELLSDYPKDSLSQLTALAAYIAPLLD
+                     APRAQELSPSLEQWTLFYQRLAQDLGLTKSKHIRHDLVAERVRQTFSDEALEKLDLKL
+                     AENKDTCWLKSIFRKHRKAFSYLQHSIVWQALLPKLTVIEALQQASALTEHSITTRPV
+                     SQSVQPNSEDLSVKHKDWQQLVHKYQGIKAARQSLEGGVLYAWLYRHDRDWLVHWNQQ
+                     HQQERLAPAPRVDWNQRDRIAVRQLLRIIKRLDSSLDHPRATSSWLLKQTPNGTSLAK
+                     NLQKLPLVALCLKRYSESVEDYQIRRISQAFIKLKQEDVELRRWRLLRSATLSKERIT
+                     EEAQRFLEMVYGEE*"
+                     /X-Transferred_From="pTNS3_YJP440"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0; tnsD
+                     (<a href=""urn:local:.:50e-g850k2a"">pTNS3_YJP440</a>)"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="pTNS3_YJP440"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; tnsD (<a
+                     href=""urn:local:.:1d0f-g8gu1em"">pTNS3_YJP440</a>)"
+                     /label="tnsD"
+     CDS             9677..9745
+                     /locus_tag="LacZ alpha"
+                     /X-Transferred_From="plYJP022-int7"
+                     /X-Transferred_Similarity="100.00%"
+                     /X-Primary_Match="100.00%; Adjusted-Interval-0:0/0; LacZ
+                     alpha (<a
+                     href=""urn:local:.:2xo-g850hew"">plYJP022-int7</a>)"
+                     /X-Alternative_Match="100.00%; Adjusted-Interval-0:0/0;
+                     LacZ alpha (<a
+                     href=""urn:local:.:2xp-g850hew"">plYJP053</a>)"
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /Transferred_From="pTNS3_YJP440"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; LacZ
+                     alpha (<a
+                     href=""urn:local:.:1d0f-g8gu1em"">pTNS3_YJP440</a>)"
+                     /label="LacZ alpha"
+ORIGIN      
+        1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt
+       61 cttagacgtc aggtggcact tttcggggaa atgtgcgcgg aacccctatt tgtttatttt
+      121 tctaaataca ttcaaatatg tatccgctca tgagacaata accctgataa atgcttcaat
+      181 aatattgaaa aaggaagagt atgagtattc aacatttccg tgtcgccctt attccctttt
+      241 ttgcggcatt ttgccttcct gtttttgctc acccagaaac gctggtgaaa gtaaaagatg
+      301 ctgaagatca gttgggtgca cgagtgggtt acatcgaact ggatctcaac agcggtaaga
+      361 tccttgagag ttttcgcccc gaagaacgtt ttccaatgat gagcactttt aaagttctgc
+      421 tatgtggcgc ggtattatcc cgtattgacg ccgggcaaga gcaactcggt cgccgcatac
+      481 actattctca gaatgacttg gttgagtact caccagtcac agaaaagcat cttacggatg
+      541 gcatgacagt aagagaatta tgcagtgctg ccataaccat gagtgataac actgcggcca
+      601 acttacttct gacaacgatc ggaggaccga aggagctaac cgcttttttg cacaacatgg
+      661 gggatcatgt aactcgcctt gatcgttggg aaccggagct gaatgaagcc ataccaaacg
+      721 acgagcgtga caccacgatg cctgtagcaa tggcaacaac gttgcgcaaa ctattaactg
+      781 gcgaactact tactctagct tcccggcaac aattaataga ctggatggag gcggataaag
+      841 ttgcaggacc acttctgcgc tcggcccttc cggctggctg gtttattgct gataaatctg
+      901 gagccggtga gcgtgggtct cgcggtatca ttgcagcact ggggccagat ggtaagccct
+      961 cccgtatcgt agttatctac acgacgggga gtcaggcaac tatggatgaa cgaaatagac
+     1021 agatcgctga gataggtgcc tcactgatta agcattggta actgtcagac caagtttact
+     1081 catatatact ttagattgat ttaaaacttc atttttaatt taaaaggatc taggtgaaga
+     1141 tcctttttga taatctcatg accaaaatcc cttaacgtga gttttcgttc cactgagcgt
+     1201 cagaccccgt agaaaagatc aaaggatctt cttgagatcc tttttttctg cgcgtaatct
+     1261 gctgcttgca aacaaaaaaa ccaccgctac cagcggtggt ttgtttgccg gatcaagagc
+     1321 taccaactct ttttccgaag gtaactggct tcagcagagc gcagatacca aatactgtcc
+     1381 ttctagtgta gccgtagtta ggccaccact tcaagaactc tgtagcaccg cctacatacc
+     1441 tcgctctgct aatcctgtta ccagccggtt gtcagccgtt aagtgttcct gtgtcactca
+     1501 aaattgcttt gagaggctct aagggcttct cagtgcgtta catccctggc ttgttgtcca
+     1561 caaccgttaa accttaaaag ctttaaaagc cttatatatt cttttttttc ttataaaact
+     1621 taaaacctta gaggctattt aagttgctga tttatattaa ttttattgtt caaacatgag
+     1681 agcttagtac gtgaaacatg agagcttagt acgttagcca tgagagctta gtacgttagc
+     1741 catgagggtt tagttcgtta aacatgagag cttagtacgt taaacttgag agcttagtac
+     1801 gtgaaacatg agagcttagt acgtactatc aacaggttga actgcccatg ttctttcctg
+     1861 cgttatcaga gcttatcggc cagcctcgca gagcaggatt cccgttgagc accgccaggt
+     1921 gcgaataagg gacagtgaag aaggaacacc cgctcgcggg tgggcctact tcacctatcc
+     1981 tgcccggctg acgccgttgg atacaccaag gaaagtctac acgaaccctt tggcaaaatc
+     2041 ctgtatatcg tgcgaaaaag gatggatata ccgaaaaaat cgctataatg accccgaagc
+     2101 agggttatgc agcggaaagt ataccttaac atgttctttc ctgcgttatc ccctgattct
+     2161 gtggataacc gtattaccgc ctttgagtga gctgataccg ctcgccgcag ccgaacgacc
+     2221 gagcgcagcg agtcagtgag cgaggaagcg gaagagcgcc caatacgcaa accgcctctc
+     2281 cccgcgcgtt ggccgattca ttaatgcagc tggcacgaca ggtttcccga ctggaaagcg
+     2341 ggcagtgagc gcaacgcaat taatgtgagt tagctcactc attaggcacc ccaggcttta
+     2401 cactttatgc ttccggctcg tatgttgtgt ggaattgtga gcggataaca atttcacaca
+     2461 ggaaacagct atgaccatga ttacgaattc ggcttgaatt cacgaaccca gttgacataa
+     2521 gcctgttcgg ttcgtaaact gtaatgcaag tagcgtatgc gctcacgcaa ctggtccaga
+     2581 accttgaccg aacgcagcgg tggtaacggc gcagtggcgg ttttcatggc ttgttatgac
+     2641 tgtttttttg tacagtctat gcctcgggca tccaagcagc aagcgcgtta cgccgtgggt
+     2701 cgatgtttga tgttatggag cagcaacgat gttacgcagc agggcagtcg ccctaaaaca
+     2761 aagttaggca gccgttgtgc tggtgctttc tgatagttgt tgtggggtag gcagtcagag
+     2821 ctcgatttgc ttgtcgccat aatagattca caagaaggat tcgacccggg gatcctctag
+     2881 agtcgagatg ccgcatgtgg aagaggtgat tgcaccgatc ttctacaccg ttccgctgca
+     2941 gctgctggct taccatgtcg cgctgatcaa aggcaccgac gttgaccagc cgcgtaacct
+     3001 ggcaaaatcg gttacggttg agtaataaat ggatgccctg cgtaagcggg tgtgggcgga
+     3061 caataaagtc ttaaagggaa caaaatagat ctaaactatg acaataaagt cttaaactag
+     3121 acagaatagt tgtaaactga aatcagtcca gttatgctgt gaaaaagcat actggacttt
+     3181 tgttatggct aaagcaaact cttcattttc tgaagtgcaa attgcccgtc gtattaaaga
+     3241 ggggcgtggc caagggcatg gtaaagacta tattccatgg ctaacagtac aagaagttcc
+     3301 ttcttcaggt cgttcccacc gtatttattc tcataagacg ggacgagtcc atcatttgct
+     3361 atctgactta gagcttgctg tttttctcag tcttgagtgg gagagcagcg tgctagatat
+     3421 acgcgagcag ttccccttat tacctagtga taccaggcag attgcaatag atagtggtat
+     3481 taagcatcct gttattcgtg gtgtagatca ggttatgtct actgattttt tagtggactg
+     3541 caaagatggt ccttttgagc agtttgctat tcaagtcaaa cctgcagcag ccttacaaga
+     3601 cgagcgtacc ttagaaaaac tagaactaga gcgtcgctat tggcagcaaa agcaaattcc
+     3661 ttggttcatt tttactgata aagaaataaa tcccgtagta aaagaaaata ttgaatggct
+     3721 ttattcagtg aaaacagaag aagtttctgc ggagctttta gcacaactat ccccattggc
+     3781 ccatatcctg caagaaaaag gagatgaaaa cattatcaat gtctgtaagc aggttgatat
+     3841 tgcttatgat ttggagttag gcaaaacatt gagtgagata cgagccttaa ccgcaaatgg
+     3901 ttttattaag ttcaatattt ataagtcttt cagggcaaat aagtgtgcag atctctgtat
+     3961 tagccaagta gtgaatatgg aggagttgcg ctatgtggca aattaatgag gttgtgctat
+     4021 ttgataatga tccgtatcgc attttggcta tagaggatgg ccaagttgtc tggatgcaaa
+     4081 taagcgctga taaaggagtt ccacaagcta gggctgagtt gttgctaatg cagtatttag
+     4141 atgaaggccg cttagttaga actgatgacc cttatgtaca tcttgattta gaagagccgt
+     4201 ctgtagattc tgtcagcttc cagaagcgcg aggaggatta tcgaaaaatt cttcctatta
+     4261 ttaatagtaa ggatcgtttc gaccctaaag tcagaagcga actcgttgag catgtggtcc
+     4321 aagaacataa ggttactaag gctacagttt ataagttgtt acgccgttac tggcagcgtg
+     4381 gtcaaacgcc taatgcatta attcctgact acaaaaacag cggtgcacca ggggaaagac
+     4441 gttcagcgac aggaacagca aagattggcc gagccagaga atatggtaag ggtgaaggaa
+     4501 ccaaggtaac gcccgagatt gaacgccttt ttaggttgac catagaaaag cacctgttaa
+     4561 atcaaaaagg tacaaagacc accgttgcct atagacgatt tgtggacttg tttgctcagt
+     4621 attttcctcg cattccccaa gaggattacc caacactacg tcagtttcgt tatttttatg
+     4681 atcgagaata ccctaaagct cagcgcttaa agtctagagt taaagcaggg gtatataaaa
+     4741 aagacgtacg acccttaagt agtacagcca cttctcaggc gttaggccct gggagtcgtt
+     4801 atgagattga tgccacgatt gctgatattt atttagtgga tcatcatgat cgccaaaaaa
+     4861 tcataggaag accaacgctt tacattgtga ttgatgtgtt tagtcggatg atcacgggct
+     4921 tttatatcgg ctttgaaaat ccgtcttatg tggtggcgat gcaggctttt gtaaatgctt
+     4981 gctctgacaa aacggccatt tgtgcccagc atgatattga gattagtagc tcagactggc
+     5041 cgtgtgtagg tttgccagat gtgttgctag cggaccgtgg cgaattaatg agtcatcagg
+     5101 tcgaagcctt agtttctagt tttaatgtgc gagtggaaag tgctccacct agacgtggcg
+     5161 atgctaaagg catagtggaa agcactttta gaacactaca agccgagttt aagtcctttg
+     5221 cacctggcat tgtagagggc agtcggatca aaagccatgg tgaaacagac tataggttag
+     5281 atgcatctct gtcggtattt gagttcacac aaattatttt gcgtacgatc ttattcagaa
+     5341 ataaccatct ggtgatggat aaatacgatc gagatgctga ttttcctaca gatttaccgt
+     5401 ctattcctgt ccagctatgg caatggggta tgcagcatcg tacaggtagt ttaagggctg
+     5461 tggagcaaga gcagttgcga gtagcgttac tgcctcgccg aaaggtctct atttcttcat
+     5521 ttggcgttaa tttgtggggt ttgtattact cggggtcaga gattctgcgt gagggttggt
+     5581 tgcagcggag cactgatata gctagacctc aacatttaga agcggcttat gacccagtgc
+     5641 tggttgatac gatttatttg tttccgcaag ttggcagccg tgtattttgg cgctgtaatc
+     5701 tgacggaacg tagtcggcag tttaaaggtc tctcattttg ggaggtttgg gatatacaag
+     5761 cacaagaaaa acacaataaa gccaatgcga agcaggatga gttaactaaa cgcagggagc
+     5821 ttgaggcgtt tattcagcaa accattcaga aagcgaataa gttaacgccc agtactactg
+     5881 agcccaaatc aacacgcatt aagcagatta aaactaataa aaaagaagcc gtgacctcgg
+     5941 agcgtaaaaa acgtgcggag catttgaagc caagctcttc aggtgatgag gctaaagtta
+     6001 ttcctttcaa cgcagtggaa gcggatgatc aagaagatta cagcctaccc acatacgtgc
+     6061 ctgaattatt tcaggatcca ccagaaaagg atgagtcatg agtgctaccc ggattcaagc
+     6121 agtttatcgt gatacggggg tagaggctta tcgtgataat ccttttatcg aggccttacc
+     6181 accattacaa gagtcagtga atagtgctgc atcactgaaa tcctctttac agcttacttc
+     6241 ctctgacttg caaaagtccc gtgttatcag agctcatacc atttgtcgta ttccagatga
+     6301 ctattttcag ccattaggta cgcatttgct actaagtgag cgtatttcgg tcatgattcg
+     6361 aggtggctac gtaggcagaa atcctaaaac aggagattta caaaagcatt tacaaaatgg
+     6421 ttatgagcgt gttcaaacgg gagagttgga gacatttcgc tttgaggagg cacgatctac
+     6481 ggcacaaagc ttattgttaa ttggttgttc tggtagtggg aagacgacct ctcttcatcg
+     6541 tattctagcc acgtatcctc aggtgattta ccatcgtgaa ctcaatgtag agcaggtggt
+     6601 gtatttgaaa atagactgct cgcataatgg ttcgctaaaa gaaatctgct tgaatttttt
+     6661 cagagcgttg gatcgagcct tgggctcgaa ctatgagcgt cgttatggct taaaacgtca
+     6721 tggtatagaa accatgttgg ctttgatgtc gcaaatagcc aatgcacatg ctttagggtt
+     6781 gttggttatt gatgaaattc agcatttaag ccgctctcgt tcgggtggat ctcaagagat
+     6841 gctgaacttt tttgtgacga tggtgaatat tattggcgta ccagtgatgt tgattggtac
+     6901 ccctaaagca cgagagattt ttgaggctga tttgcggtct gcacgtagag gggcagggtt
+     6961 tggagctata ttctgggatc ctatacaaca aacgcaacgt ggaaagccca atcaagagtg
+     7021 gatcgctttt acggataatc tttggcaatt acagctttta caacgcaaag atgcgctgtt
+     7081 atcggatgag gtccgtgatg tgtggtatga gctaagccaa ggagtgatgg acattgtagt
+     7141 aaaacttttt gtactcgctc agctccgtgc gctagcttta ggcaatgagc gtattaccgc
+     7201 tggtttattg cggcaagtgt atcaagatga gttaaagcct gtgcacccca tgctagaggc
+     7261 attacgctcg ggtatcccag aacgcattgc tcgttattct gatctagtcg ttcccgagat
+     7321 tgataaacgg ttaatccaac ttcagctaga tatcgcagcg atacaagaac aaacaccaga
+     7381 agaaaaagcc cttcaagagt tagataccga agatcagcgt catttatatc tgatgctgaa
+     7441 agaggattac gattcaagcc tgttaattcc cactattaaa aaagcgttta gccagaatcc
+     7501 aacgatgaca agacaaaagt tactgcctct tgttttgcag tggttgatgg aaggcgaaac
+     7561 ggtagtgtca gaactagaaa agccctccaa gagtaaaaag gtttcggcta taaaggtagt
+     7621 caagcccagc gactgggata gcttgcctga tacggattta cgttatatct attcacaacg
+     7681 ccaacctgaa aaaaccatgc atgaacggtt aaaagggaaa ggggtaatag tggatatggc
+     7741 gagcttattt aaacaagcag gttagccatg agaaactttc ctgttccgta ctcgaatgag
+     7801 ctgatttata gcactattgc acgggcaggc gtttatcaag ggattgttag tcctaagcag
+     7861 ctgttggatg aggtgtatgg caaccgcaag gtggtcgcta ccttaggtct gccctcgcat
+     7921 ttaggtgtga tagcaagaca tctacatcaa acaggacgtt acgctgttca gcagcttatt
+     7981 tatgagcata ccttattccc tttatatgct ccgtttgtag gcaaggagcg ccgagacgaa
+     8041 gctattcggt taatggagta ccaagcgcaa ggtgcggtgc atttaatgct aggagtcgct
+     8101 gcttctagag ttaagagcga taaccgcttt agatactgcc ctgattgcgt tgctcttcag
+     8161 ctaaataggt atggggaagc cttttggcaa cgagattggt atttgcccgc tttgccatat
+     8221 tgtccaaaac acggtgcttt agtcttcttt gatagagctg tagatgatca ccgacatcaa
+     8281 ttttgggctt tgggtcatac tgagctgctt tcagactacc ccaaagactc cctatctcaa
+     8341 ttaacagcac tagctgctta tatagcccct ctgttagatg ctccacgagc gcaagagctt
+     8401 tccccaagcc ttgagcagtg gacgctgttt tatcagcgct tagcgcagga tctagggcta
+     8461 accaaaagca agcacattcg tcatgacttg gtggcggaga gagtgaggca gacttttagt
+     8521 gatgaggcac tagagaaact ggatttaaag ttggcagaga acaaggacac gtgttggctg
+     8581 aaaagtatat tccgtaagca tagaaaagcc tttagttatt tacagcatag tattgtgtgg
+     8641 caagccttat tgccaaaact aacggttata gaagcgctac agcaggcaag tgctcttact
+     8701 gagcactcta taacgacaag acctgttagc cagtctgtgc aacctaactc tgaagattta
+     8761 tctgttaagc ataaagactg gcagcaacta gtgcataaat accaaggaat taaggcggca
+     8821 agacagtctt tagagggtgg ggtgctatac gcttggcttt accgacatga cagggattgg
+     8881 ctagttcact ggaatcaaca gcatcaacaa gagcgtctgg cacccgcccc tagagttgat
+     8941 tggaaccaaa gagatcgaat tgctgtacga caactattaa gaatcataaa gcgtctagat
+     9001 agtagccttg atcacccaag agcgacatcg agctggctgt taaagcaaac tcctaacgga
+     9061 acctctcttg caaaaaatct acagaaactg cctttggtag cgctttgctt aaagcgttac
+     9121 tcagagagtg tggaagatta tcaaattaga cggattagcc aagcttttat taagcttaaa
+     9181 caggaagatg ttgagcttag gcgctggcga ttattaagaa gtgcaacgtt atctaaagag
+     9241 cggataactg aggaagcaca aagattcttg gaaatggttt atggggaaga gtgagtggtt
+     9301 aggctagcta catttaatga caatgtgcag gttgtacata ttggtcattt attccgtaac
+     9361 tcgggtcata aggagtggcg tatttttgtt tggtttaatc caatgcaaga acggaaatgg
+     9421 actcgattta ctcatttgcc tttattaagt cgagctaagg tggttaacag tacaacaaag
+     9481 caaataaata aggcggatcg tgtgattgag tttgaagcat cggatcttca acgagccaaa
+     9541 ataatcgggg gatcctctag agtcgacctg caggcatgca agcttggcac tggccgtcgt
+     9601 tttacaacgt cgtgactggg aaaaccctgg cgttacccaa cttaatcgcc ttgcagcaca
+     9661 tccccctttc gccagctggc gtaatagcga agaggcccgc accgatcgcc cttcccaaca
+     9721 gttgcgcagc ctgaatggcg aatggcgcct gatgcggtat tttctcctta cgcatctgtg
+     9781 cggtatttca caccgcatat ggtgcactct cagtacaatc tgctctgatg ccgcatagtt
+     9841 aagccagccc cgacacccgc caacacccgc tgacgcgccc tgacgggctt gtctgctccc
+     9901 ggcatccgct tacagacaag ctgtgaccgt ctccgggagc tgcatgtgtc agaggttttc
+     9961 accgtcatca ccgaaacgcg cga
+//
