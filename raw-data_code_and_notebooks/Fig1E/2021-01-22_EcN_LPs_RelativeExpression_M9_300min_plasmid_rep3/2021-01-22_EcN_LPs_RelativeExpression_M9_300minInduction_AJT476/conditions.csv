@@ -1,0 +1,8 @@
+sample_num,row,col,iptg,parent_strain,strain_num,media,replicate
+int,category,category,float,category,category,category,category
+1,A,1,0,EcN,AJT476-1,M9,1
+2,A,2,0,EcN,AJT476-2,M9,1
+3,B,1,0,EcN,AJT476-1,M9,1
+4,B,2,0,EcN,AJT476-2,M9,1
+5,C,1,0,EcN,AJT476-1,M9,1
+6,C,2,0,EcN,AJT476-2,M9,1

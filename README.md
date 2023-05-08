@@ -1,10 +1,25 @@
 # EcN_analysis
-Files accompanying Triassi, et al. (2021)
+Files accompanying Triassi, et al. (2023)
 
-All codes utilized in producing data and plots can be found in: EcN_analysis.py
+There are three folders:
+* rna-seq
+	- All codes utilized in producing RNA-seq-related data and plots can be found in: EcN_analysis.py
+	- Metadata including experimental information can be found in: 2021_01_07_EcN_hdoost_h_dataframe.csv
+	- Analyzed output differential expression and p-values are shown in: 2021_04_09_DE_all_23h.csv
+	- Other .csv files include QC, metrics, and raw & FPKM values for gene expression.
 
-Metadata including experimental information can be found in: 2021_01_07_EcN_hdoost_h_dataframe.csv
+* plotted_data_only
+	- Excel files containing values used to generate plots, no data anaylsis
 
-Analyzed output differential expression and p-values are shown in: 2021_04_09_DE_all_23h.csv
-
-Other .csv files include QC, metrics, and raw & FPKM values for gene expression.
+* raw-data_code_and_notebooks
+	- a bunch of Python notebooks used to analyze raw data and generate plots
+		* notebooks are nested within subfolders
+		* notebooks often contain superfluous code from prototyping or copied from previous analysis, some thinking will be required to run these
+		* some raw data files were too large to upload to GitHub, but files can be shared upon request
+	- Python scripts that are utilized by these notebooks
+		* cytoflow_modules
+			- cf_helpers.py and cf_imports.py
+		* transferfunction.py
+			- defines a class for creating transfer functions
+		* transferfunction_beta.py
+			- updated version used in later notebooks
