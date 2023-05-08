@@ -1,7 +1,9 @@
 # EcN_analysis
 Files accompanying Triassi, et al. (2023)
 
-There are three folders:
+There are four folders:
+* dna-maps_genbank
+	- genbank files for plasmids and genome integrations in this paper
 * rna-seq
 	- All codes utilized in producing RNA-seq-related data and plots can be found in: EcN_analysis.py
 	- Metadata including experimental information can be found in: 2021_01_07_EcN_hdoost_h_dataframe.csv
