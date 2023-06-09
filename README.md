@@ -1,5 +1,5 @@
 # EcN_analysis
-Files accompanying Triassi et al., Redesign of an Escherichia coli Nissle treatment for phenylketonuria using insulated genomic landing pads and genetic circuits to reduce burden, Cell Systems (2023), https://doi.org/10.1016/j.cels.2023.05.004
+Files accompanying Triassi et al., Redesign of an _Escherichia coli_ Nissle treatment for phenylketonuria using insulated genomic landing pads and genetic circuits to reduce burden, Cell Systems (2023), https://doi.org/10.1016/j.cels.2023.05.004
 
 There are four folders:
 * dna-maps_genbank
